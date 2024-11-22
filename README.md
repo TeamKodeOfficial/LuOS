@@ -1,2 +1,3 @@
-# LuOS
-Lua terminal OS
+# OpenLuOS
+OpenLuOS is a open source Lua Terminal-OS simulator.
+## W.I.P
